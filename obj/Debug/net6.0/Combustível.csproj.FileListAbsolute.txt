@@ -1,0 +1,30 @@
+C:\Users\digos\Desktop\PTI ALGORITMOS E PROGRAMAÇÃO I\Combustível\bin\Debug\net6.0\Combustível.exe
+C:\Users\digos\Desktop\PTI ALGORITMOS E PROGRAMAÇÃO I\Combustível\bin\Debug\net6.0\Combustível.deps.json
+C:\Users\digos\Desktop\PTI ALGORITMOS E PROGRAMAÇÃO I\Combustível\bin\Debug\net6.0\Combustível.runtimeconfig.json
+C:\Users\digos\Desktop\PTI ALGORITMOS E PROGRAMAÇÃO I\Combustível\bin\Debug\net6.0\Combustível.dll
+C:\Users\digos\Desktop\PTI ALGORITMOS E PROGRAMAÇÃO I\Combustível\bin\Debug\net6.0\Combustível.pdb
+C:\Users\digos\Desktop\PTI ALGORITMOS E PROGRAMAÇÃO I\Combustível\obj\Debug\net6.0\Combustível.csproj.AssemblyReference.cache
+C:\Users\digos\Desktop\PTI ALGORITMOS E PROGRAMAÇÃO I\Combustível\obj\Debug\net6.0\Combustível.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digos\Desktop\PTI ALGORITMOS E PROGRAMAÇÃO I\Combustível\obj\Debug\net6.0\Combustível.AssemblyInfoInputs.cache
+C:\Users\digos\Desktop\PTI ALGORITMOS E PROGRAMAÇÃO I\Combustível\obj\Debug\net6.0\Combustível.AssemblyInfo.cs
+C:\Users\digos\Desktop\PTI ALGORITMOS E PROGRAMAÇÃO I\Combustível\obj\Debug\net6.0\Combustível.csproj.CoreCompileInputs.cache
+C:\Users\digos\Desktop\PTI ALGORITMOS E PROGRAMAÇÃO I\Combustível\obj\Debug\net6.0\Combustível.dll
+C:\Users\digos\Desktop\PTI ALGORITMOS E PROGRAMAÇÃO I\Combustível\obj\Debug\net6.0\refint\Combustível.dll
+C:\Users\digos\Desktop\PTI ALGORITMOS E PROGRAMAÇÃO I\Combustível\obj\Debug\net6.0\Combustível.pdb
+C:\Users\digos\Desktop\PTI ALGORITMOS E PROGRAMAÇÃO I\Combustível\obj\Debug\net6.0\Combustível.genruntimeconfig.cache
+C:\Users\digos\Desktop\PTI ALGORITMOS E PROGRAMAÇÃO I\Combustível\obj\Debug\net6.0\ref\Combustível.dll
+C:\Users\digos\OneDrive\Documentos\PTI SENAC\PTI ALGORITMOS E PROGRAMAÇÃO I\Combustível\bin\Debug\net6.0\Combustível.exe
+C:\Users\digos\OneDrive\Documentos\PTI SENAC\PTI ALGORITMOS E PROGRAMAÇÃO I\Combustível\bin\Debug\net6.0\Combustível.deps.json
+C:\Users\digos\OneDrive\Documentos\PTI SENAC\PTI ALGORITMOS E PROGRAMAÇÃO I\Combustível\bin\Debug\net6.0\Combustível.runtimeconfig.json
+C:\Users\digos\OneDrive\Documentos\PTI SENAC\PTI ALGORITMOS E PROGRAMAÇÃO I\Combustível\bin\Debug\net6.0\Combustível.dll
+C:\Users\digos\OneDrive\Documentos\PTI SENAC\PTI ALGORITMOS E PROGRAMAÇÃO I\Combustível\bin\Debug\net6.0\Combustível.pdb
+C:\Users\digos\OneDrive\Documentos\PTI SENAC\PTI ALGORITMOS E PROGRAMAÇÃO I\Combustível\obj\Debug\net6.0\Combustível.csproj.AssemblyReference.cache
+C:\Users\digos\OneDrive\Documentos\PTI SENAC\PTI ALGORITMOS E PROGRAMAÇÃO I\Combustível\obj\Debug\net6.0\Combustível.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digos\OneDrive\Documentos\PTI SENAC\PTI ALGORITMOS E PROGRAMAÇÃO I\Combustível\obj\Debug\net6.0\Combustível.AssemblyInfoInputs.cache
+C:\Users\digos\OneDrive\Documentos\PTI SENAC\PTI ALGORITMOS E PROGRAMAÇÃO I\Combustível\obj\Debug\net6.0\Combustível.AssemblyInfo.cs
+C:\Users\digos\OneDrive\Documentos\PTI SENAC\PTI ALGORITMOS E PROGRAMAÇÃO I\Combustível\obj\Debug\net6.0\Combustível.csproj.CoreCompileInputs.cache
+C:\Users\digos\OneDrive\Documentos\PTI SENAC\PTI ALGORITMOS E PROGRAMAÇÃO I\Combustível\obj\Debug\net6.0\Combustível.dll
+C:\Users\digos\OneDrive\Documentos\PTI SENAC\PTI ALGORITMOS E PROGRAMAÇÃO I\Combustível\obj\Debug\net6.0\refint\Combustível.dll
+C:\Users\digos\OneDrive\Documentos\PTI SENAC\PTI ALGORITMOS E PROGRAMAÇÃO I\Combustível\obj\Debug\net6.0\Combustível.pdb
+C:\Users\digos\OneDrive\Documentos\PTI SENAC\PTI ALGORITMOS E PROGRAMAÇÃO I\Combustível\obj\Debug\net6.0\Combustível.genruntimeconfig.cache
+C:\Users\digos\OneDrive\Documentos\PTI SENAC\PTI ALGORITMOS E PROGRAMAÇÃO I\Combustível\obj\Debug\net6.0\ref\Combustível.dll
